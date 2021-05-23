@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #ffcc5e;
+  border: none;
+}
+
+#education {
+  background-color: #ffcc5e;
+}
+
+#projects {
+  background-color: #ffcc5e;
+}
+
+section {
+  padding-top: 5rem;
+}
